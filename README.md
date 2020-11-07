@@ -1,12 +1,10 @@
 <h1 align="center">
-    <img alt="Cotação" title="Cotação" src=".github/grafico.jpg"  width="100%" />
+    Cotação de criptomoedas
 </h1>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
+<h1 align="center">
+    <img alt="Cotação" title="Cotação" src=".github/grafico.jpg"  width="100%" />
+</h1>
 
 ## 🚀 Tecnologias
 
